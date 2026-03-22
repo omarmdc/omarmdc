@@ -1,4 +1,4 @@
-## Hey there, My Name is Omar 👋
+## Hey there, my Name is Omar 👋
 
 <hr>
 
