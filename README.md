@@ -25,10 +25,10 @@ public class Omar {
 💻 I am passionate about Software Engineering, AI, and building systems that solve not only personal but real business problems. I'm currently studying Computer Science and Artifcial Intelligence, while developing projects in backend development and AI automation.
 
 
-### Fun Facts about me
-📐 I'm passionate about Civil-Structural Engineering
-⚽️ I love doing sports (especially soccer)
-📚 I like Mathematics
+## Fun Facts about me
+- 📐 I'm passionate about Civil-Structural Engineering
+- ⚽️ I love doing sports (especially soccer)
+- 📚 I like Mathematics
 
 
 ## 🌐 Socials:
