@@ -4,7 +4,7 @@
 
 # 🚶🏻‍➡️ About Me
 
-My name is Omar and I am a Computer Science student! 👨🏻‍🎓
+My name is Omar and I am a Computer Science & AI student! 👨🏻‍🎓
 
 ```java
 public class Omar {
