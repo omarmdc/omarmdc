@@ -8,6 +8,8 @@ My name is Omar and I'm a Computer Science & Applied Artifical Intelligence stud
 
 I specialize in Backend Engineerin, AI Systems & LLM Orchestration (LangChain, LangGraph), Distributed Systems, RAG and Data Pipelines, and Cloud Computing.
 
+![---> GitHub Streak is Down At The Moment <---](https://streak-stats.demolab.com/?user=omarmdc&theme=radical)
+![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=omarmdc&layout=pie&theme=radical)
 ```java
 public class Omar {
     int age;
@@ -73,8 +75,6 @@ _Python, Pandas, Scikit-learn, NumPy_
 - Structured ML workflow from data ingestion to evaluation using reproducible pipelines
 - Utilized Pandas for data manipulation and NumPy for numerical operations
 
-![---> GitHub Streak is Down At The Moment <---](https://streak-stats.demolab.com/?user=omarmdc&theme=radical)
-![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=omarmdc&layout=pie&theme=radical)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/omar1x) 
