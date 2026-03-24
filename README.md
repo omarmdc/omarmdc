@@ -4,7 +4,7 @@
 
 #  About Me
 
-My name is Omar and I'm a Computer Science & Applied Artifical Intelligence student at Miami Day College!
+My name is Omar and I'm a Computer Science & Applied Artifical Intelligence student at Miami Dade College!
 
 I specialize in Backend Engineering, AI Systems & LLM Orchestration (LangChain, LangGraph), Distributed Systems, RAG and Data Pipelines, and Cloud Computing.
 
