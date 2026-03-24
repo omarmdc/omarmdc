@@ -6,7 +6,7 @@
 
 My name is Omar and I'm a Computer Science & Applied Artifical Intelligence student at Miami Day College!
 
-I specialize in Backend Engineerin, AI Systems & LLM Orchestration (LangChain, LangGraph), Distributed Systems, RAG and Data Pipelines, and Cloud Computing.
+I specialize in Backend Engineering, AI Systems & LLM Orchestration (LangChain, LangGraph), Distributed Systems, RAG and Data Pipelines, and Cloud Computing.
 
 ![---> GitHub Streak is Down At The Moment <---](https://streak-stats.demolab.com/?user=omarmdc&theme=radical)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=omarmdc&layout=pie&theme=radical)
@@ -30,7 +30,7 @@ I am passionate about Software Engineering, AI, and building systems that solve 
 
 # Experience
 
-AI Developer — Deepiri (March 2026 – Present)
+AI Software Engineer Internship — Deepiri (March 2026 – Present)
 - Designed parallel document processing pipelines using Redis Streams, consumer groups, and async Python workers to improve throughput and system reliability
 - Built multi-step AI workflows using LangChain, LangGraph, and OpenAI APIs for document analysis and automation
 - Implemented fault-tolerant systems with retry logic, logging, and monitoring using Python, Celery-style patterns, and distributed queues
