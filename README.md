@@ -4,9 +4,7 @@
 
 #  About Me
 
-My name is Omar and I'm a Computer Science & Applied Artifical Intelligence student at Miami Dade College!
-
-I specialize in Backend Engineering, AI Systems & LLM Orchestration (LangChain, LangGraph), Distributed Systems, RAG and Data Pipelines, and Cloud Computing.
+My name is Omar and I'm an engineering student!
 
 ![---> GitHub Streak is Down At The Moment <---](https://streak-stats.demolab.com/?user=omarmdc&theme=radical)
 ![Repo Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=omarmdc&layout=pie&theme=radical)
@@ -26,7 +24,7 @@ public class Omar {
 }
 ```
 
-I am passionate about Software Engineering, AI, and building systems that solve not only personal but real business problems. I'm currently studying Computer Science and Artifcial Intelligence, while developing projects in backend development and AI automation.
+I am passionate about Software Engineering, AI, and building systems that solve not only personal but real business problems.
 
 # Experience
 
