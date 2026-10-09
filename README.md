@@ -1,4 +1,4 @@
-## Omar Acosta - Software Developer
+## Omar - Software Developer
 
 <hr>
 
